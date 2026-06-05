@@ -1,0 +1,50 @@
+Source-Makefile: feeds/base/package/boot/uboot-airoha/Makefile
+Build-Depends: arm-trusted-firmware-tools/host
+Build-Types: host
+
+Package: u-boot-an7581_rfb
+Default: y if (TARGET_airoha_an7581_Default || TARGET_airoha_an7581_DEVICE_airoha_an7581-evb || TARGET_DEVICE_airoha_an7581_DEVICE_airoha_an7581-evb)
+Prereq-Check: 1
+Version: 2025.07
+Depends: +libc @!IN_SDK @TARGET_airoha_an7581
+Conflicts: 
+Menu-Depends: 
+Provides: 
+Build-Variant: an7581_rfb
+Section: boot
+Category: Boot Loaders
+Title: U-Boot for AN7581 Reference Board
+Maintainer: 
+Source: u-boot-2025.07.tar.bz2
+License: GPL-2.0 GPL-2.0+
+LicenseFiles: Licenses/README
+URL: http://www.denx.de/wiki/U-Boot
+Type: bin
+Description: U-Boot for AN7581 Reference Board
+@@
+
+Build-Depends: arm-trusted-firmware-tools/host
+Build-Types: host
+
+Package: u-boot-an7583_rfb
+Default: y if (TARGET_airoha_an7583_Default || TARGET_airoha_an7583_DEVICE_airoha_an7583-evb || TARGET_DEVICE_airoha_an7583_DEVICE_airoha_an7583-evb)
+Prereq-Check: 1
+Version: 2025.07
+Depends: +libc @!IN_SDK @TARGET_airoha_an7583
+Conflicts: 
+Menu-Depends: 
+Provides: 
+Build-Variant: an7583_rfb
+Section: boot
+Category: Boot Loaders
+Title: U-Boot for AN7583 Reference Board
+Maintainer: 
+Source: u-boot-2025.07.tar.bz2
+License: GPL-2.0 GPL-2.0+
+LicenseFiles: Licenses/README
+URL: http://www.denx.de/wiki/U-Boot
+Type: bin
+Description: U-Boot for AN7583 Reference Board
+@@
+
+
