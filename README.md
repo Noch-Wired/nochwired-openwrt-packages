@@ -27,7 +27,7 @@ SSH into your OpenWrt device and run the following script to auto-detect your ve
 
 ```sh
 # Auto-detect OpenWrt version and architecture
-REPO="https://enock295simiyu.github.io/nochwired-openwrt-packages/packages"
+REPO="https://noch-wired.github.io/nochwired-openwrt-packages/packages"
 VERSION=$(cat /etc/openwrt_release | grep DISTRIB_RELEASE | cut -d= -f2 | tr -d '"' | cut -d. -f1,2)
 ARCH=$(opkg print-architecture | tail -1 | awk '{print $2}')
 
@@ -59,11 +59,11 @@ Edit `/etc/opkg/customfeeds.conf` and add the line for your OpenWrt version and 
 
 ```sh
 # x86_64
-echo "src/gz custom https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/24.10/x86_64" \
+echo "src/gz custom https://noch-wired.github.io/nochwired-openwrt-packages/packages/24.10/x86_64" \
   >> /etc/opkg/customfeeds.conf
 
 # aarch64
-echo "src/gz custom https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/24.10/aarch64" \
+echo "src/gz custom https://noch-wired.github.io/nochwired-openwrt-packages/packages/24.10/aarch64" \
   >> /etc/opkg/customfeeds.conf
 ```
 
@@ -71,11 +71,11 @@ echo "src/gz custom https://enock295simiyu.github.io/nochwired-openwrt-packages/
 
 ```sh
 # x86_64
-echo "src/gz custom https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/23.05/x86_64" \
+echo "src/gz custom https://noch-wired.github.io/nochwired-openwrt-packages/packages/23.05/x86_64" \
   >> /etc/opkg/customfeeds.conf
 
 # aarch64
-echo "src/gz custom https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/23.05/aarch64" \
+echo "src/gz custom https://noch-wired.github.io/nochwired-openwrt-packages/packages/23.05/aarch64" \
   >> /etc/opkg/customfeeds.conf
 ```
 
@@ -176,7 +176,7 @@ cat /etc/opkg/customfeeds.conf
 ```sh
 # Test connectivity to the repository
 wget -q -O /dev/null \
-  https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/24.10/x86_64/Packages \
+  https://noch-wired.github.io/nochwired-openwrt-packages/packages/24.10/x86_64/Packages \
   && echo "Feed reachable" || echo "Feed not reachable"
 ```
 
@@ -197,10 +197,10 @@ opkg install accel-ppp
 
 | OpenWrt Version | Architecture | Feed URL |
 |---|---|---|
-| 24.10 | x86_64 | `https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/24.10/x86_64` |
-| 24.10 | aarch64 | `https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/24.10/aarch64` |
-| 23.05 | x86_64 | `https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/23.05/x86_64` |
-| 23.05 | aarch64 | `https://enock295simiyu.github.io/nochwired-openwrt-packages/packages/23.05/aarch64` |
+| 24.10 | x86_64 | `https://noch-wired.github.io/nochwired-openwrt-packages/packages/24.10/x86_64` |
+| 24.10 | aarch64 | `https://noch-wired.github.io/nochwired-openwrt-packages/packages/24.10/aarch64` |
+| 23.05 | x86_64 | `https://noch-wired.github.io/nochwired-openwrt-packages/packages/23.05/x86_64` |
+| 23.05 | aarch64 | `https://noch-wired.github.io/nochwired-openwrt-packages/packages/23.05/aarch64` |
 
 ---
 
@@ -208,8 +208,8 @@ opkg install accel-ppp
 
 Contributions are welcome! To request a new package or report an issue:
 
-1. Open an [issue](https://github.com/enock295simiyu/nochwired-openwrt-packages/issues)
-2. Or submit a pull request to the [build repository](https://github.com/enock295simiyu/openwrt-accel-ppp)
+1. Open an [issue](https://github.com/noch-wired/nochwired-openwrt-packages/issues)
+2. Or submit a pull request to the [build repository](https://github.com/noch-wired/openwrt-accel-ppp)
 
 ---
 
@@ -228,4 +228,4 @@ This repository contains build scripts and configurations. Individual packages a
 - [OpenWrt Documentation](https://openwrt.org/docs/start)
 - [opkg Usage Guide](https://openwrt.org/docs/guide-user/additional-software/opkg)
 - [accel-ppp Project](https://accel-ppp.org/)
-- [Build Repository](https://github.com/enock295simiyu/openwrt-accel-ppp)
+- [Noch Wired ](https://isp.nochwired.co.ke)
