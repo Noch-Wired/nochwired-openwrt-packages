@@ -1,0 +1,204 @@
+Lost field SourceName, accel-ppp
+Lost field SourceDateEpoch, 1696887935
+Lost field Installed-Size, 378613
+Lost field SourceName, libopenssl-afalg
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 6744
+Lost field SourceName, libopenssl-conf
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 5459
+Lost field SourceName, libopenssl-devcrypto
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 11277
+Lost field SourceName, libopenssl-legacy
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 37625
+Lost field SourceName, libopenssl-padlock
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 10147
+Lost field SourceName, libopenssl
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field ABIVersion, 3
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 2108844
+Lost field SourceName, libpcre
+Lost field LicenseFiles, LICENCE
+Lost field SourceDateEpoch, 1696887935
+Lost field Installed-Size, 85169
+Lost field SourceName, libucontext-tests
+Lost field LicenseFiles, LICENSE
+Lost field SourceDateEpoch, 1694855263
+Lost field Installed-Size, 2861
+Lost field SourceName, libucontext
+Lost field LicenseFiles, LICENSE
+Lost field SourceDateEpoch, 1694855263
+Lost field Installed-Size, 2137
+Lost field SourceName, openssl-util
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 342267
+Package: accel-ppp
+Version: main-14
+Depends: libc, libpcre, libopenssl3, libpthread, librt, libatomic1, libucontext, kmod-sched-core, kmod-pptp, kmod-pppoe, kmod-ppp
+Section: net
+Architecture: x86_64
+MD5Sum: ffd9264ac3ae71cc50ca5c920def3247
+Size: 378812
+Filename: accel-ppp_main-14_x86_64.ipk
+Source: package/openwrt-accel-ppp
+Description: accel-ppp IPoE VPN server
+License: GPL-2.0
+
+
+Package: libopenssl-afalg
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf, kmod-crypto-user
+Section: libs
+Architecture: x86_64
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 9cf0dbafb7c178b3ba4837ce3b012a68
+Size: 7966
+Filename: libopenssl-afalg_3.0.19-1_x86_64.ipk
+Source: feeds/base/package/libs/openssl
+Description: This package adds an engine that enables hardware acceleration
+License: Apache-2.0
+
+
+Package: libopenssl-conf
+Version: 3.0.19-1
+Depends: libc, libopenssl3
+Section: libs
+Architecture: x86_64
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 9373573c0de6d7552de0beb67dc0a2c7
+Size: 6462
+Filename: libopenssl-conf_3.0.19-1_x86_64.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+
+Package: libopenssl-devcrypto
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf, kmod-cryptodev
+Section: libs
+Architecture: x86_64
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: daae9ef76da5d618540586230ee93bad
+Size: 12439
+Filename: libopenssl-devcrypto_3.0.19-1_x86_64.ipk
+Source: feeds/base/package/libs/openssl
+Description: This package adds an engine that enables hardware acceleration
+License: Apache-2.0
+
+
+Package: libopenssl-legacy
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf
+Section: libs
+Architecture: x86_64
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: ef4211c6ba3dfc2ef83e5eff3bf6f70a
+Size: 38580
+Filename: libopenssl-legacy_3.0.19-1_x86_64.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL legacy provider supplies OpenSSL implementations of algorithms that
+License: Apache-2.0
+
+
+Package: libopenssl-padlock
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf, kmod-crypto-hw-padlock
+Section: libs
+Architecture: x86_64
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 7a5d2dd0b9ea601a91d79e6a6a790bc1
+Size: 11309
+Filename: libopenssl-padlock_3.0.19-1_x86_64.ipk
+Source: feeds/base/package/libs/openssl
+Description: This package adds an engine that enables VIA Padlock hardware acceleration.
+License: Apache-2.0
+
+
+Package: libopenssl3
+Version: 3.0.19-1
+Depends: libc
+Provides: libopenssl
+Section: libs
+Architecture: x86_64
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 5f2e97d82191004e48fe62ff171bf2b3
+Size: 2098774
+Filename: libopenssl3_3.0.19-1_x86_64.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+
+Package: libpcre
+Version: 8.45-1
+Depends: libc
+Section: libs
+Architecture: x86_64
+MD5Sum: 63766f59b63bcd10d9e8590ef06a87ee
+Size: 85937
+Filename: libpcre_8.45-1_x86_64.ipk
+Source: package/libs/libpcre
+Description: A Perl Compatible Regular Expression library.
+License: BSD-3-Clause
+
+
+Package: libucontext-tests
+Version: 1.2-1
+Depends: libc, libucontext
+Section: utils
+Architecture: x86_64
+Maintainer: Volker Christian <me@vchrist.at>
+MD5Sum: 0676dcacaaccb1f10560c20ba5553f05
+Size: 3568
+Filename: libucontext-tests_1.2-1_x86_64.ipk
+Source: feeds/packages/libs/libucontext
+Description: Test applications for libucontext
+License: ISC
+
+
+Package: libucontext
+Version: 1.2-1
+Depends: libc
+Section: libs
+Architecture: x86_64
+Maintainer: Volker Christian <me@vchrist.at>
+MD5Sum: 801b6867b7bd8762437b42a77b1cf57c
+Size: 2899
+Filename: libucontext_1.2-1_x86_64.ipk
+Source: feeds/packages/libs/libucontext
+Description: Thie package is a development package aimed to be linked to
+License: ISC
+
+
+Package: openssl-util
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf
+Section: utils
+Architecture: x86_64
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 2fd2d61f835744f65959dc4a7901f57d
+Size: 341029
+Filename: openssl-util_3.0.19-1_x86_64.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+
