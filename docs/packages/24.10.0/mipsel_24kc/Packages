@@ -1,0 +1,194 @@
+Lost field SourceName, accel-ppp
+Lost field SourceDateEpoch, 1738624177
+Lost field Installed-Size, 2222080
+Lost field SourceName, openssl
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1778750807
+Lost field URL, https://www.openssl.org/
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 81920
+Lost field SourceName, openssl
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1778750807
+Lost field URL, https://www.openssl.org/
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 20480
+Lost field SourceName, openssl
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1778750807
+Lost field URL, https://www.openssl.org/
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 81920
+Lost field SourceName, openssl
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1778750807
+Lost field URL, https://www.openssl.org/
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 143360
+Lost field SourceName, openssl
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1778750807
+Lost field URL, https://www.openssl.org/
+Lost field ABIVersion, 3
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 3717120
+Lost field SourceName, libpcre
+Lost field LicenseFiles, LICENCE
+Lost field SourceDateEpoch, 1738624177
+Lost field URL, https://www.pcre.org/
+Lost field Installed-Size, 337920
+Lost field SourceName, libucontext
+Lost field LicenseFiles, LICENSE
+Lost field SourceDateEpoch, 1728349698
+Lost field URL, https://github.com/kaniini/libucontext
+Lost field Installed-Size, 143360
+Lost field SourceName, libucontext
+Lost field LicenseFiles, LICENSE
+Lost field SourceDateEpoch, 1728349698
+Lost field URL, https://github.com/kaniini/libucontext
+Lost field Installed-Size, 143360
+Lost field SourceName, openssl
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1778750807
+Lost field URL, https://www.openssl.org/
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 757760
+Package: accel-ppp
+Version: main-r14
+Depends: libc, libpcre, libopenssl3, libpthread, librt, libatomic1, libucontext, kmod-sched-core, kmod-pptp, kmod-pppoe, kmod-ppp
+Section: net
+Architecture: mipsel_24kc
+MD5Sum: 0c3f4aac451d1461b07390c0df857261
+Size: 343987
+Filename: accel-ppp_main-r14_mipsel_24kc.ipk
+Source: feeds/base/openwrt-accel-ppp
+Description: accel-ppp IPoE VPN server
+License: GPL-2.0
+
+
+Package: libopenssl-afalg
+Version: 3.0.20-r1
+Depends: libc, libopenssl3, libopenssl-conf, kmod-crypto-user
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 0168cbe2367430df0e1cc8cfcdbb15e0
+Size: 6565
+Filename: libopenssl-afalg_3.0.20-r1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: This package adds an engine that enables hardware acceleration
+License: Apache-2.0
+
+
+Package: libopenssl-conf
+Version: 3.0.20-r1
+Depends: libc, libopenssl3
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: d58573cf7720f9d29e7e3cbbfc5cfd82
+Size: 6496
+Filename: libopenssl-conf_3.0.20-r1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+
+Package: libopenssl-devcrypto
+Version: 3.0.20-r1
+Depends: libc, libopenssl3, libopenssl-conf, kmod-cryptodev
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: c859dc8322bd8af2f6c1f6e5b64d45c1
+Size: 9603
+Filename: libopenssl-devcrypto_3.0.20-r1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: This package adds an engine that enables hardware acceleration
+License: Apache-2.0
+
+
+Package: libopenssl-legacy
+Version: 3.0.20-r1
+Depends: libc, libopenssl3, libopenssl-conf
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 2a37a1a1ac2b1e4863e13c4c3f282b99
+Size: 27978
+Filename: libopenssl-legacy_3.0.20-r1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL legacy provider supplies OpenSSL implementations of algorithms that
+License: Apache-2.0
+
+
+Package: libopenssl3
+Version: 3.0.20-r1
+Depends: libc, libatomic1
+Provides: libopenssl
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: dc1c8f1e5d48981d2b191aaef928dcba
+Size: 1392290
+Filename: libopenssl3_3.0.20-r1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+
+Package: libpcre
+Version: 8.45-r1
+Depends: libc
+Section: libs
+Architecture: mipsel_24kc
+MD5Sum: f3171d04e6dd1f2e45e933e70d5e0a4a
+Size: 81176
+Filename: libpcre_8.45-r1_mipsel_24kc.ipk
+Source: feeds/base/libs/libpcre
+Description: A Perl Compatible Regular Expression library.
+License: BSD-3-Clause
+
+
+Package: libucontext-tests
+Version: 1.3.2-r1
+Depends: libc, libucontext
+Section: utils
+Architecture: mipsel_24kc
+Maintainer: Volker Christian <me@vchrist.at>
+MD5Sum: 08bd52c504778446009432a49a13c1f2
+Size: 4755
+Filename: libucontext-tests_1.3.2-r1_mipsel_24kc.ipk
+Source: feeds/packages/libs/libucontext
+Description: Test applications for libucontext
+License: ISC
+
+
+Package: libucontext
+Version: 1.3.2-r1
+Depends: libc
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Volker Christian <me@vchrist.at>
+MD5Sum: 4b3373e86c51ea2f1c9f3347baa4e64d
+Size: 3514
+Filename: libucontext_1.3.2-r1_mipsel_24kc.ipk
+Source: feeds/packages/libs/libucontext
+Description: This package is a development package aimed to be linked to
+License: ISC
+
+
+Package: openssl-util
+Version: 3.0.20-r1
+Depends: libc, libopenssl3, libopenssl-conf
+Section: utils
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 11c056909dfc32f971616298b2418bf3
+Size: 296768
+Filename: openssl-util_3.0.20-r1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+

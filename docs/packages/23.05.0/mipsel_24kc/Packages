@@ -1,0 +1,185 @@
+Lost field SourceName, accel-ppp
+Lost field SourceDateEpoch, 1696887935
+Lost field Installed-Size, 348023
+Lost field SourceName, libopenssl-afalg
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 5577
+Lost field SourceName, libopenssl-conf
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 5459
+Lost field SourceName, libopenssl-devcrypto
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 8515
+Lost field SourceName, libopenssl-legacy
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 27204
+Lost field SourceName, libopenssl
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field ABIVersion, 3
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 1415061
+Lost field SourceName, libpcre
+Lost field LicenseFiles, LICENCE
+Lost field SourceDateEpoch, 1696887935
+Lost field Installed-Size, 81558
+Lost field SourceName, libucontext-tests
+Lost field LicenseFiles, LICENSE
+Lost field SourceDateEpoch, 1694855263
+Lost field Installed-Size, 4361
+Lost field SourceName, libucontext
+Lost field LicenseFiles, LICENSE
+Lost field SourceDateEpoch, 1694855263
+Lost field Installed-Size, 2883
+Lost field SourceName, openssl-util
+Lost field LicenseFiles, LICENSE.txt
+Lost field SourceDateEpoch, 1770484704
+Lost field CPE-ID, cpe:/a:openssl:openssl
+Lost field Installed-Size, 302274
+Package: accel-ppp
+Version: main-14
+Depends: libc, libpcre, libopenssl3, libpthread, librt, libatomic1, libucontext, kmod-sched-core, kmod-pptp, kmod-pppoe, kmod-ppp
+Section: net
+Architecture: mipsel_24kc
+MD5Sum: 899d05ccf04b74ddd8862e8c002335e8
+Size: 343734
+Filename: accel-ppp_main-14_mipsel_24kc.ipk
+Source: package/openwrt-accel-ppp
+Description: accel-ppp IPoE VPN server
+License: GPL-2.0
+
+
+Package: libopenssl-afalg
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf, kmod-crypto-user
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: db97b6bc274900b45d6fd64e713e5cc3
+Size: 6561
+Filename: libopenssl-afalg_3.0.19-1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: This package adds an engine that enables hardware acceleration
+License: Apache-2.0
+
+
+Package: libopenssl-conf
+Version: 3.0.19-1
+Depends: libc, libopenssl3
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: e88e43aff0bf6c8c149c643d19b40e21
+Size: 6463
+Filename: libopenssl-conf_3.0.19-1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+
+Package: libopenssl-devcrypto
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf, kmod-cryptodev
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: bd93ce7e97d859c0afdf411013e45865
+Size: 9602
+Filename: libopenssl-devcrypto_3.0.19-1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: This package adds an engine that enables hardware acceleration
+License: Apache-2.0
+
+
+Package: libopenssl-legacy
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: fc3f0a89717549c3100ae23a04d7499d
+Size: 27919
+Filename: libopenssl-legacy_3.0.19-1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL legacy provider supplies OpenSSL implementations of algorithms that
+License: Apache-2.0
+
+
+Package: libopenssl3
+Version: 3.0.19-1
+Depends: libc, libatomic1
+Provides: libopenssl
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: d28d1d95b578de24c91193a01c7aa910
+Size: 1401794
+Filename: libopenssl3_3.0.19-1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+
+Package: libpcre
+Version: 8.45-1
+Depends: libc
+Section: libs
+Architecture: mipsel_24kc
+MD5Sum: fe7af62f229e5e235fa7c1abc97281a8
+Size: 82094
+Filename: libpcre_8.45-1_mipsel_24kc.ipk
+Source: package/libs/libpcre
+Description: A Perl Compatible Regular Expression library.
+License: BSD-3-Clause
+
+
+Package: libucontext-tests
+Version: 1.2-1
+Depends: libc, libucontext
+Section: utils
+Architecture: mipsel_24kc
+Maintainer: Volker Christian <me@vchrist.at>
+MD5Sum: 4c80e71c52430e3f0ed5ccea37362cee
+Size: 4800
+Filename: libucontext-tests_1.2-1_mipsel_24kc.ipk
+Source: feeds/packages/libs/libucontext
+Description: Test applications for libucontext
+License: ISC
+
+
+Package: libucontext
+Version: 1.2-1
+Depends: libc
+Section: libs
+Architecture: mipsel_24kc
+Maintainer: Volker Christian <me@vchrist.at>
+MD5Sum: bb770df54beb6f6767648dbd600770ac
+Size: 3436
+Filename: libucontext_1.2-1_mipsel_24kc.ipk
+Source: feeds/packages/libs/libucontext
+Description: Thie package is a development package aimed to be linked to
+License: ISC
+
+
+Package: openssl-util
+Version: 3.0.19-1
+Depends: libc, libopenssl3, libopenssl-conf
+Section: utils
+Architecture: mipsel_24kc
+Maintainer: Eneas U de Queiroz <cotequeiroz@gmail.com>
+MD5Sum: 76929ab2d94d7d289a1e5bc24d51b4da
+Size: 300245
+Filename: openssl-util_3.0.19-1_mipsel_24kc.ipk
+Source: feeds/base/package/libs/openssl
+Description: The OpenSSL Project is a collaborative effort to develop a robust,
+License: Apache-2.0
+
+
