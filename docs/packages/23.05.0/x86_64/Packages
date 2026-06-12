@@ -1,6 +1,359 @@
 Lost field SourceName, accel-ppp
 Lost field SourceDateEpoch, 1696887935
 Lost field Installed-Size, 378613
+Lost field SourceName, aircard-pcmcia-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 438
+Lost field SourceName, amd64-microcode
+Lost field LicenseFiles, LICENSE.amd-ucode
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 36682
+Lost field SourceName, amdgpu-firmware
+Lost field LicenseFiles, LICENSE.amdgpura
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 26756800
+Lost field SourceName, ar3k-firmware
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ar3k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 961475
+Lost field SourceName, ath10k-board-qca4019
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 83898
+Lost field SourceName, ath10k-board-qca9377
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 8370
+Lost field SourceName, ath10k-board-qca9887
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 671
+Lost field SourceName, ath10k-board-qca9888
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 7621
+Lost field SourceName, ath10k-board-qca988x
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 773
+Lost field SourceName, ath10k-board-qca9984
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 14492
+Lost field SourceName, ath10k-board-qca99x0
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 7557
+Lost field SourceName, ath10k-firmware-qca4019
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 466962
+Lost field SourceName, ath10k-firmware-qca6174
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 878151
+Lost field SourceName, ath10k-firmware-qca9377
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 524144
+Lost field SourceName, ath10k-firmware-qca9887
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 208908
+Lost field SourceName, ath10k-firmware-qca9888
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 529172
+Lost field SourceName, ath10k-firmware-qca988x
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 218881
+Lost field SourceName, ath10k-firmware-qca9984
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 522541
+Lost field SourceName, ath10k-firmware-qca99x0
+Lost field LicenseFiles, LICENSE.QualcommAtheros_ath10k
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 373679
+Lost field SourceName, ath11k-firmware-qca6390
+Lost field LicenseFiles, LICENCE.atheros_firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 1767498
+Lost field SourceName, ath11k-firmware-wcn6750
+Lost field LicenseFiles, LICENCE.atheros_firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 3671145
+Lost field SourceName, ath11k-firmware-wcn6855
+Lost field LicenseFiles, LICENCE.atheros_firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 3171839
+Lost field SourceName, ath6k-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 712096
+Lost field SourceName, ath9k-htc-firmware
+Lost field LicenseFiles, LICENCE.open-ath9k-htc-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 61872
+Lost field SourceName, atm-aread
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 1841
+Lost field SourceName, atm-atmaddr
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 2039
+Lost field SourceName, atm-atmdiag
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 1799
+Lost field SourceName, atm-atmdump
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 2675
+Lost field SourceName, atm-atmloop
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 2260
+Lost field SourceName, atm-atmsigd
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 78693
+Lost field SourceName, atm-atmswitch
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 2324
+Lost field SourceName, atm-atmtcp
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 8195
+Lost field SourceName, atm-awrite
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 1668
+Lost field SourceName, atm-bus
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 19787
+Lost field SourceName, atm-debug-tools
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 249773
+Lost field SourceName, atm-diagnostics
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 5786
+Lost field SourceName, atm-esi
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 1831
+Lost field SourceName, atm-ilmid
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 24881
+Lost field SourceName, atm-ilmidiag
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 2034
+Lost field SourceName, atm-lecs
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 10831
+Lost field SourceName, atm-les
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 23629
+Lost field SourceName, atm-mpcd
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 14561
+Lost field SourceName, atm-saaldump
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 26743
+Lost field SourceName, atm-sonetdiag
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 2205
+Lost field SourceName, atm-svc_recv
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 2233
+Lost field SourceName, atm-svc_send
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 1973
+Lost field SourceName, atm-tools
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 19155
+Lost field SourceName, atm-ttcp_atm
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 7683
+Lost field SourceName, atm-zeppelin
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 21159
+Lost field SourceName, bnx2-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 105162
+Lost field SourceName, bnx2x-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 2421816
+Lost field SourceName, br2684ctl
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 4958
+Lost field SourceName, brcmfmac-firmware-4329-sdio
+Lost field LicenseFiles, LICENCE.broadcom_bcm43xx
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 177012
+Lost field SourceName, brcmfmac-firmware-4339-sdio
+Lost field LicenseFiles, LICENCE.cypressb
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 342111
+Lost field SourceName, brcmfmac-firmware-43430a0-sdio
+Lost field LicenseFiles, LICENCE.broadcom_bcm43xx
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 259119
+Lost field SourceName, brcmfmac-firmware-43602a1-pcie
+Lost field LicenseFiles, LICENCE.broadcom_bcm43xx
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 370269
+Lost field SourceName, brcmfmac-firmware-4366b1-pcie
+Lost field LicenseFiles, LICENCE.broadcom_bcm43xx
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 637322
+Lost field SourceName, brcmfmac-firmware-4366c0-pcie
+Lost field LicenseFiles, LICENCE.broadcom_bcm43xx
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 647585
+Lost field SourceName, brcmfmac-firmware-usb
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 502980
+Lost field SourceName, brcmfmac-nvram-43430-sdio
+Lost field LicenseFiles, LICENCE.broadcom_bcm43xx
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 1393
+Lost field SourceName, brcmfmac-nvram-43455-sdio
+Lost field LicenseFiles, LICENCE.broadcom_bcm43xx
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 2528
+Lost field SourceName, brcmsmac-firmware
+Lost field LicenseFiles, LICENCE.broadcom_bcm43xx
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 42177
+Lost field SourceName, carl9170-firmware
+Lost field LicenseFiles, carl9170fw/GPL
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 9761
+Lost field SourceName, chat
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 9339
+Lost field SourceName, e100-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 834
+Lost field SourceName, edgeport-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 18898
+Lost field SourceName, eip197-mini-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 425
+Lost field SourceName, ibt-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 16369046
+Lost field SourceName, iwl3945-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 63572
+Lost field SourceName, iwl4965-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 78623
+Lost field SourceName, iwlwifi-firmware-ax200
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 532907
+Lost field SourceName, iwlwifi-firmware-ax201
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 539865
+Lost field SourceName, iwlwifi-firmware-ax210
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 596343
+Lost field SourceName, iwlwifi-firmware-iwl1000
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 176985
+Lost field SourceName, iwlwifi-firmware-iwl100
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 176990
+Lost field SourceName, iwlwifi-firmware-iwl105
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 332942
+Lost field SourceName, iwlwifi-firmware-iwl135
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 341796
+Lost field SourceName, iwlwifi-firmware-iwl2000
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 338719
+Lost field SourceName, iwlwifi-firmware-iwl2030
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 347305
+Lost field SourceName, iwlwifi-firmware-iwl3160
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 465839
+Lost field SourceName, iwlwifi-firmware-iwl3168
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 451506
+Lost field SourceName, iwlwifi-firmware-iwl5000
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 177061
+Lost field SourceName, iwlwifi-firmware-iwl5150
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 174126
+Lost field SourceName, iwlwifi-firmware-iwl6000g2
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 212875
+Lost field SourceName, iwlwifi-firmware-iwl6000g2a
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 324147
+Lost field SourceName, iwlwifi-firmware-iwl6000g2b
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 327878
+Lost field SourceName, iwlwifi-firmware-iwl6050
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 219214
+Lost field SourceName, iwlwifi-firmware-iwl7260
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 492759
+Lost field SourceName, iwlwifi-firmware-iwl7265
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 534257
+Lost field SourceName, iwlwifi-firmware-iwl7265d
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 463064
+Lost field SourceName, iwlwifi-firmware-iwl8260c
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 960333
+Lost field SourceName, iwlwifi-firmware-iwl8265
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 967350
+Lost field SourceName, iwlwifi-firmware-iwl9000
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 629194
+Lost field SourceName, iwlwifi-firmware-iwl9260
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 624233
+Lost field SourceName, libertas-sdio-firmware
+Lost field LicenseFiles, LICENCE.Marvell
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 348536
+Lost field SourceName, libertas-spi-firmware
+Lost field LicenseFiles, LICENCE.Marvell
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 92241
+Lost field SourceName, libertas-usb-firmware
+Lost field LicenseFiles, LICENCE.Marvell
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 216571
 Lost field SourceName, libopenssl-afalg
 Lost field LicenseFiles, LICENSE.txt
 Lost field SourceDateEpoch, 1770484704
@@ -32,6 +385,12 @@ Lost field SourceDateEpoch, 1770484704
 Lost field ABIVersion, 3
 Lost field CPE-ID, cpe:/a:openssl:openssl
 Lost field Installed-Size, 2108844
+Lost field SourceName, libpcap
+Lost field LicenseFiles, LICENSE
+Lost field SourceDateEpoch, 1695847021
+Lost field ABIVersion, 1
+Lost field CPE-ID, cpe:/a:tcpdump:libpcap
+Lost field Installed-Size, 116838
 Lost field SourceName, libpcre
 Lost field LicenseFiles, LICENCE
 Lost field SourceDateEpoch, 1696887935
@@ -44,11 +403,183 @@ Lost field SourceName, libucontext
 Lost field LicenseFiles, LICENSE
 Lost field SourceDateEpoch, 1694855263
 Lost field Installed-Size, 2137
+Lost field SourceName, linux-atm
+Lost field SourceDateEpoch, 1586383966
+Lost field CPE-ID, cpe:/a:linux-atm:linux-atm
+Lost field Installed-Size, 16742
+Lost field SourceName, mt7601u-firmware
+Lost field LicenseFiles, LICENCE.mediatek
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 26435
+Lost field SourceName, mt7622bt-firmware
+Lost field LicenseFiles, LICENCE.mediatek
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 53871
+Lost field SourceName, mt7921bt-firmware
+Lost field LicenseFiles, LICENCE.mediatek
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 400754
+Lost field SourceName, mt7922bt-firmware
+Lost field LicenseFiles, LICENCE.mediatek
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 512302
+Lost field SourceName, mt7981-wo-firmware
+Lost field LicenseFiles, LICENCE.mediatek
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 52118
+Lost field SourceName, mt7986-wo-firmware
+Lost field LicenseFiles, LICENCE.mediatek
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 106388
+Lost field SourceName, mwifiex-pcie-firmware
+Lost field LicenseFiles, LICENCE.Marvell
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 514900
+Lost field SourceName, mwifiex-sdio-firmware
+Lost field LicenseFiles, LICENCE.Marvell
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 876712
+Lost field SourceName, mwl8k-firmware
+Lost field LicenseFiles, LICENCE.Marvell
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 192353
+Lost field SourceName, nochwired-ppp-mod-pppoe
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 12331
+Lost field SourceName, nochwired-ppp-mod-radius
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 25633
+Lost field SourceName, nochwired-ppp
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 140898
 Lost field SourceName, openssl-util
 Lost field LicenseFiles, LICENSE.txt
 Lost field SourceDateEpoch, 1770484704
 Lost field CPE-ID, cpe:/a:openssl:openssl
 Lost field Installed-Size, 342267
+Lost field SourceName, ppp-mod-passwordfd
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 1537
+Lost field SourceName, ppp-mod-pppoa
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 2424
+Lost field SourceName, ppp-mod-pppol2tp
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 4749
+Lost field SourceName, ppp-mod-pptp
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 18129
+Lost field SourceName, pppoe-discovery
+Lost field SourceDateEpoch, 1696887935
+Lost field CPE-ID, cpe:/a:samba:ppp
+Lost field Installed-Size, 8342
+Lost field SourceName, r8152-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 10908
+Lost field SourceName, r8169-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 23814
+Lost field SourceName, radeon-firmware
+Lost field LicenseFiles, LICENSE.radeon
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 3522992
+Lost field SourceName, resolveip
+Lost field SourceDateEpoch, 1476524212
+Lost field Installed-Size, 1604
+Lost field SourceName, rpcapd
+Lost field LicenseFiles, LICENSE
+Lost field SourceDateEpoch, 1695847021
+Lost field CPE-ID, cpe:/a:tcpdump:libpcap
+Lost field Installed-Size, 123689
+Lost field SourceName, rs9113-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 84651
+Lost field SourceName, rt2800-pci-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 3958
+Lost field SourceName, rt2800-usb-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 2929
+Lost field SourceName, rt61-pci-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 6497
+Lost field SourceName, rt73-usb-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 1309
+Lost field SourceName, rtl8188eu-firmware
+Lost field LicenseFiles, LICENCE.rtlwifi_firmware.txt
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 10404
+Lost field SourceName, rtl8192ce-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 20752
+Lost field SourceName, rtl8192cu-firmware
+Lost field LicenseFiles, LICENCE.rtlwifi_firmware.txt
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 18705
+Lost field SourceName, rtl8192de-firmware
+Lost field LicenseFiles, LICENCE.rtlwifi_firmware.txt
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 13521
+Lost field SourceName, rtl8192eu-firmware
+Lost field LicenseFiles, LICENCE.rtlwifi_firmware.txt
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 20950
+Lost field SourceName, rtl8192se-firmware
+Lost field LicenseFiles, LICENCE.rtlwifi_firmware.txt
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 36768
+Lost field SourceName, rtl8723au-firmware
+Lost field LicenseFiles, LICENCE.rtlwifi_firmware.txt
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 27984
+Lost field SourceName, rtl8723bu-firmware
+Lost field LicenseFiles, LICENCE.rtlwifi_firmware.txt
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 21416
+Lost field SourceName, rtl8761a-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 42736
+Lost field SourceName, rtl8761b-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 31762
+Lost field SourceName, rtl8761bu-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 31150
+Lost field SourceName, rtl8821ae-firmware
+Lost field LicenseFiles, LICENCE.rtlwifi_firmware.txt
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 27900
+Lost field SourceName, rtl8822be-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 82172
+Lost field SourceName, rtl8822ce-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 161933
+Lost field SourceName, ti-3410-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 7876
+Lost field SourceName, ti-5052-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 7853
+Lost field SourceName, wil6210-firmware
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 254938
+Lost field SourceName, wl12xx-firmware
+Lost field LicenseFiles, LICENCE.ti-connectivity
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 1175081
+Lost field SourceName, wl18xx-firmware
+Lost field LicenseFiles, LICENCE.ti-connectivity
+Lost field SourceDateEpoch, 1720645656
+Lost field Installed-Size, 343323
 Package: accel-ppp
 Version: main-14
 Depends: libc, libpcre, libopenssl3, libpthread, librt, libatomic1, libucontext, kmod-sched-core, kmod-pptp, kmod-pppoe, kmod-ppp
@@ -60,6 +591,1268 @@ Filename: accel-ppp_main-14_x86_64.ipk
 Source: package/openwrt-accel-ppp
 Description: accel-ppp IPoE VPN server
 License: GPL-2.0
+
+
+Package: aircard-pcmcia-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: df64342baacc11419f38bc7363c279ca
+Size: 1174
+Filename: aircard-pcmcia-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Sierra Wireless Aircard 555/7xx/8x0 firmware
+
+
+Package: amd64-microcode
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: a17804e96de74fe5c168c68dc095660d
+Size: 37511
+Filename: amd64-microcode_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: AMD64 CPU microcode
+
+
+Package: amdgpu-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 3b174b9a45b7efa7b816ec76d26158c5
+Size: 26516751
+Filename: amdgpu-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: AMDGPU Video Driver firmware
+
+
+Package: ar3k-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 679e9bbc2490f2c47877a93f002efd25
+Size: 961722
+Filename: ar3k-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath3k firmware
+
+
+Package: ath10k-board-qca4019
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: fb600626cd58f29d49fb86b7cba4884d
+Size: 82442
+Filename: ath10k-board-qca4019_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca4019 board firmware
+
+
+Package: ath10k-board-qca9377
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 6dc806ee43a49808e710dc95dcd103fe
+Size: 8255
+Filename: ath10k-board-qca9377_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca9377 board firmware
+
+
+Package: ath10k-board-qca9887
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: e0c38f23ae3a742ab145b416b0157cb2
+Size: 1429
+Filename: ath10k-board-qca9887_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca9887 board firmware
+
+
+Package: ath10k-board-qca9888
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: f9f8892975e810cb75d8d7bd9f84b0e0
+Size: 8141
+Filename: ath10k-board-qca9888_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca9888 board firmware
+
+
+Package: ath10k-board-qca988x
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: fa63d9c9c76f1e7e7bbd99418cf884ed
+Size: 1536
+Filename: ath10k-board-qca988x_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca988x board firmware
+
+
+Package: ath10k-board-qca9984
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: adfdb20c92379d431ee677cc47645d69
+Size: 14811
+Filename: ath10k-board-qca9984_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca9984 board firmware
+
+
+Package: ath10k-board-qca99x0
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: f5a0ce425ccd0390791b19b9cff9f99d
+Size: 8189
+Filename: ath10k-board-qca99x0_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca99x0 board firmware
+
+
+Package: ath10k-firmware-qca4019
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 03e73c1d21ff0809da6dded1f986fb8a
+Size: 466332
+Filename: ath10k-firmware-qca4019_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca4019 firmware
+
+
+Package: ath10k-firmware-qca6174
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 1c37da4bf937dfd150fbb643f19800d5
+Size: 875591
+Filename: ath10k-firmware-qca6174_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca6174 firmware
+
+
+Package: ath10k-firmware-qca9377
+Version: 20230804-1
+Depends: libc, ath10k-board-qca9377
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 6ad83d48c8e813b357c1c0cda7cab540
+Size: 524289
+Filename: ath10k-firmware-qca9377_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca9377 firmware
+
+
+Package: ath10k-firmware-qca9887
+Version: 20230804-1
+Depends: libc, ath10k-board-qca9887
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 55e19c3cfa120af519deef01270345ee
+Size: 209784
+Filename: ath10k-firmware-qca9887_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca9887 firmware
+
+
+Package: ath10k-firmware-qca9888
+Version: 20230804-1
+Depends: libc, ath10k-board-qca9888
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 0271a9fb193cf46237bcd3f9bc9bef09
+Size: 528858
+Filename: ath10k-firmware-qca9888_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca9888 firmware
+
+
+Package: ath10k-firmware-qca988x
+Version: 20230804-1
+Depends: libc, ath10k-board-qca988x
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 2b516d1c363dcdb6dba0f9e4dd6b1c08
+Size: 219751
+Filename: ath10k-firmware-qca988x_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca988x firmware
+
+
+Package: ath10k-firmware-qca9984
+Version: 20230804-1
+Depends: libc, ath10k-board-qca9984
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: f7cf594ebffa83a8b5ea0e77bcbb8d6e
+Size: 519967
+Filename: ath10k-firmware-qca9984_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca9984 firmware
+
+
+Package: ath10k-firmware-qca99x0
+Version: 20230804-1
+Depends: libc, ath10k-board-qca99x0
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 6402e6951117913366c8f76c3ae57592
+Size: 371921
+Filename: ath10k-firmware-qca99x0_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: ath10k qca99x0 firmware
+
+
+Package: ath11k-firmware-qca6390
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 817e8ccee438647b27c3ca1697efe892
+Size: 1751304
+Filename: ath11k-firmware-qca6390_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: QCA6390 ath11k firmware
+
+
+Package: ath11k-firmware-wcn6750
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: db2e677bc9b52e4112f5a4b82bc073b8
+Size: 3661953
+Filename: ath11k-firmware-wcn6750_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: WCN6750 ath11k firmware
+
+
+Package: ath11k-firmware-wcn6855
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: ec07d496ef031cb28a9025c46269d67c
+Size: 3152820
+Filename: ath11k-firmware-wcn6855_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: WCN6855 ath11k firmware
+
+
+Package: ath6k-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 90cf717359ccae8b2260690a7f5199bc
+Size: 712832
+Filename: ath6k-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: AR600X firmware
+
+
+Package: ath9k-htc-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: add74732989407ee16b41e04bb4dce29
+Size: 62233
+Filename: ath9k-htc-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: AR9271/AR7010 firmware
+
+
+Package: atm-aread
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: aaa609581a6f36045e97eb4a0f1f1dbd
+Size: 2550
+Filename: atm-aread_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool aread.
+License: GPL-2.0+
+
+
+Package: atm-atmaddr
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 01e2ed8096fe6cab60bf4c4ab3a5c8ab
+Size: 2749
+Filename: atm-atmaddr_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool atmaddr.
+License: GPL-2.0+
+
+
+Package: atm-atmdiag
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: a78715dd9a1f07bfa789a796cbc15459
+Size: 2508
+Filename: atm-atmdiag_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool atmdiag.
+License: GPL-2.0+
+
+
+Package: atm-atmdump
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 9e8ee4f49390cfa0850d633051f6c491
+Size: 3389
+Filename: atm-atmdump_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool atmdump.
+License: GPL-2.0+
+
+
+Package: atm-atmloop
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 662498c5a2c7828d6eafbd729a822532
+Size: 2972
+Filename: atm-atmloop_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool atmloop.
+License: GPL-2.0+
+
+
+Package: atm-atmsigd
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: a7037ae6c95f72233394c4b547654335
+Size: 79178
+Filename: atm-atmsigd_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool atmsigd.
+License: GPL-2.0+
+
+
+Package: atm-atmswitch
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: a07864bb1a7a8492fe05af84d5297bf9
+Size: 3042
+Filename: atm-atmswitch_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool atmswitch.
+License: GPL-2.0+
+
+
+Package: atm-atmtcp
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 876bde68d1595b1b9265438090b2cf92
+Size: 8940
+Filename: atm-atmtcp_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool atmtcp.
+License: GPL-2.0+
+
+
+Package: atm-awrite
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 42d05236cacf3ac90eeff9da3d1f1dd7
+Size: 2402
+Filename: atm-awrite_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool awrite.
+License: GPL-2.0+
+
+
+Package: atm-bus
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: e3c91c6068d0bf870aa9aea13569fb18
+Size: 20473
+Filename: atm-bus_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool bus.
+License: GPL-2.0+
+
+
+Package: atm-debug-tools
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 2612394c5b0dda5576d3af5da7eeaa8e
+Size: 249710
+Filename: atm-debug-tools_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: This package contains the Linux ATM debugging tools.
+License: GPL-2.0+
+
+
+Package: atm-diagnostics
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: b3a6dd9095f7711b811e898783246a03
+Size: 6454
+Filename: atm-diagnostics_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: This package contains the Linux ATM diagnostics.
+License: GPL-2.0+
+
+
+Package: atm-esi
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 7a4be33dd305163367b8a2216e959d6b
+Size: 2539
+Filename: atm-esi_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool esi.
+License: GPL-2.0+
+
+
+Package: atm-ilmid
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 54bc03c5e8f9e507824379ce59ceb477
+Size: 25565
+Filename: atm-ilmid_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool ilmid.
+License: GPL-2.0+
+
+
+Package: atm-ilmidiag
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 0a13e5d8c44b4a53f8ae3b0a67d756e5
+Size: 2746
+Filename: atm-ilmidiag_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool ilmidiag.
+License: GPL-2.0+
+
+
+Package: atm-lecs
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: ce7f9bc8ea541dbdd4a3cae6b324af23
+Size: 11554
+Filename: atm-lecs_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool lecs.
+License: GPL-2.0+
+
+
+Package: atm-les
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: fdb13c9ef2b3feea33d5d7ba2782818e
+Size: 24338
+Filename: atm-les_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool les.
+License: GPL-2.0+
+
+
+Package: atm-mpcd
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: f2f8bc16aa03038726eca1275ea681b2
+Size: 15275
+Filename: atm-mpcd_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool mpcd.
+License: GPL-2.0+
+
+
+Package: atm-saaldump
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: f415930e8e3831b36a8614299d4f6a0c
+Size: 27238
+Filename: atm-saaldump_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool saaldump.
+License: GPL-2.0+
+
+
+Package: atm-sonetdiag
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: a94779210f460913a0697669d3d853ba
+Size: 2922
+Filename: atm-sonetdiag_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool sonetdiag.
+License: GPL-2.0+
+
+
+Package: atm-svc_recv
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: b66931adf4d63855fb383745c2bc835a
+Size: 2946
+Filename: atm-svc_recv_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool svc_recv.
+License: GPL-2.0+
+
+
+Package: atm-svc_send
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 5bf1c4c1f060cf63217668d4bf723ec5
+Size: 2689
+Filename: atm-svc_send_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool svc_send.
+License: GPL-2.0+
+
+
+Package: atm-tools
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 9602614c50cca3d69c58e3b8c266d21a
+Size: 19869
+Filename: atm-tools_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: This package contains the Linux ATM tools.
+License: GPL-2.0+
+
+
+Package: atm-ttcp_atm
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: bccadd57826862d01a46a8f5c3351b0d
+Size: 8430
+Filename: atm-ttcp_atm_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool ttcp_atm.
+License: GPL-2.0+
+
+
+Package: atm-zeppelin
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 0e7e891ac1bd0eff2d02bae1ee06d4cc
+Size: 21845
+Filename: atm-zeppelin_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Linux ATM tool zeppelin.
+License: GPL-2.0+
+
+
+Package: bnx2-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 0b1be4f20bebd7e0f900ddc819e714db
+Size: 105818
+Filename: bnx2-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom BCM5706/5708/5709/5716 firmware
+
+
+Package: bnx2x-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: fbe735707f96f062aaeb37d50c483e2c
+Size: 2415496
+Filename: bnx2x-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: =QLogic 5771x/578xx firmware
+
+
+Package: br2684ctl
+Version: 2.5.2-7
+Depends: libc, linux-atm
+Section: net
+Architecture: x86_64
+MD5Sum: 2e27b1f114af10986c020e9c0508e3db
+Size: 5699
+Filename: br2684ctl_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: Support for AAL5 encapsulation (RFC-1483/RFC-2684) over ATM.
+License: GPL-2.0+
+
+
+Package: brcmfmac-firmware-4329-sdio
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 5bcb9bde1b80eaa8a47c1967c6e1c385
+Size: 177848
+Filename: brcmfmac-firmware-4329-sdio_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom BCM4329 FullMac SDIO firmware
+
+
+Package: brcmfmac-firmware-4339-sdio
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: a2001742d15c76d8b29ac0f58dd21f60
+Size: 342427
+Filename: brcmfmac-firmware-4339-sdio_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom 4339 FullMAC SDIO firmware
+
+
+Package: brcmfmac-firmware-43430a0-sdio
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: fcf9d6bc31e9133f8b9c9d6329afb04d
+Size: 259919
+Filename: brcmfmac-firmware-43430a0-sdio_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom BCM43430a0 FullMac SDIO firmware
+
+
+Package: brcmfmac-firmware-43602a1-pcie
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: d913972cbc37ccd42884dbdcf0a3b751
+Size: 370418
+Filename: brcmfmac-firmware-43602a1-pcie_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom 43602a1 FullMAC PCIe firmware
+
+
+Package: brcmfmac-firmware-4366b1-pcie
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 020961f24781ada20e5992bce5b1635a
+Size: 637056
+Filename: brcmfmac-firmware-4366b1-pcie_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom 4366b1 FullMAC PCIe firmware
+
+
+Package: brcmfmac-firmware-4366c0-pcie
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: e6231c554d4d25d7237354921c433e01
+Size: 647270
+Filename: brcmfmac-firmware-4366c0-pcie_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom 4366c0 FullMAC PCIe firmware
+
+
+Package: brcmfmac-firmware-usb
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: d24484fea98dff27da84371cb19a0e02
+Size: 503684
+Filename: brcmfmac-firmware-usb_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom BCM43xx fullmac USB firmware
+
+
+Package: brcmfmac-nvram-43430-sdio
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 4c6334c4a01b300c881610e84521a18c
+Size: 2159
+Filename: brcmfmac-nvram-43430-sdio_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom BCM43430 SDIO NVRAM
+
+
+Package: brcmfmac-nvram-43455-sdio
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: be28f341edd88f90ea3dfb987641a4e5
+Size: 3315
+Filename: brcmfmac-nvram-43455-sdio_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom BCM43455 SDIO NVRAM
+
+
+Package: brcmsmac-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 6ac5fcb3338ad01ae338e28e2adf6b0c
+Size: 42493
+Filename: brcmsmac-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Broadcom BCM43xx softmac PCIe firmware
+
+
+Package: carl9170-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: ca0895b6edd174cff2a757bdc1369cdd
+Size: 10521
+Filename: carl9170-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: AR9170 firmware
+
+
+Package: chat
+Version: 2.5.1-1
+Depends: libc
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: 882b32278c06c62b2f1bc2f5a3673663
+Size: 10112
+Filename: chat_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: Establish conversation with a modem
+License: BSD-4-Clause
+
+
+Package: e100-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: f7c94e1b3494c2da20a32d102169b9af
+Size: 1562
+Filename: e100-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel e100
+
+
+Package: edgeport-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: e6bba16532f6d2827e45b0c7faa134ac
+Size: 19583
+Filename: edgeport-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: USB Inside Out Edgeport Serial Driver firmware
+
+
+Package: eip197-mini-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: f6b959c40d4f10af8632eb5b95a41fc3
+Size: 1157
+Filename: eip197-mini-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Inside Secure EIP197 mini firmware
+
+
+Package: ibt-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 3fa6788273b07425797a2dc7b6f137b5
+Size: 16368274
+Filename: ibt-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel bluetooth firmware
+
+
+Package: iwl3945-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 38ab38c9b7bcf8f939c0f8bc92586319
+Size: 64209
+Filename: iwl3945-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel IWL3945 firmware
+
+
+Package: iwl4965-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 215ed6280b4bf6389529ca088cbb416c
+Size: 79187
+Filename: iwl4965-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel IWL4965 firmware
+
+
+Package: iwlwifi-firmware-ax200
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 1d322adde6d70a0a749b5f378bbeb7a2
+Size: 532276
+Filename: iwlwifi-firmware-ax200_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel AX200 firmware
+
+
+Package: iwlwifi-firmware-ax201
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 4b67b4095cff9cf1a3132fe42621a291
+Size: 539204
+Filename: iwlwifi-firmware-ax201_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel AX201 firmware
+
+
+Package: iwlwifi-firmware-ax210
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 9a9540c300c05fd0a40dcebc6f292ade
+Size: 595482
+Filename: iwlwifi-firmware-ax210_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel AX210 firmware
+
+
+Package: iwlwifi-firmware-iwl1000
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 18769cf1acf04499efcc3d3f912708ea
+Size: 177647
+Filename: iwlwifi-firmware-iwl1000_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino Wireless-N 1000 firmware
+
+
+Package: iwlwifi-firmware-iwl100
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 9a421abe07b2b85b68c5b3fa66a2499a
+Size: 177668
+Filename: iwlwifi-firmware-iwl100_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino Wireless-N 100 firmware
+
+
+Package: iwlwifi-firmware-iwl105
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: c14d6308065530e8d24b47565ee8fd35
+Size: 333274
+Filename: iwlwifi-firmware-iwl105_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino Wireless-N 105 firmware
+
+
+Package: iwlwifi-firmware-iwl135
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: b5fb8d66b9b92e51f242f112246d95c1
+Size: 342008
+Filename: iwlwifi-firmware-iwl135_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino Wireless-N 135 firmware
+
+
+Package: iwlwifi-firmware-iwl2000
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 232ad1686588f519a2ccdaa971d519d8
+Size: 339095
+Filename: iwlwifi-firmware-iwl2000_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino Wireless-N 2200 firmware
+
+
+Package: iwlwifi-firmware-iwl2030
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: b21b883a22e46c8595a0b13666c04529
+Size: 347752
+Filename: iwlwifi-firmware-iwl2030_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino Wireless-N 2230 firmware
+
+
+Package: iwlwifi-firmware-iwl3160
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 84c52e463c40d3a53eb3ff03d01d3923
+Size: 466011
+Filename: iwlwifi-firmware-iwl3160_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 3160 firmware
+
+
+Package: iwlwifi-firmware-iwl3168
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: afe457bac6e3f6faba0069fb281ffb02
+Size: 451401
+Filename: iwlwifi-firmware-iwl3168_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 3168 firmware
+
+
+Package: iwlwifi-firmware-iwl5000
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 1768ceefeca100e08cb37d99c17b6dcb
+Size: 177786
+Filename: iwlwifi-firmware-iwl5000_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 5100AGN 5300AGN and 5350AGN firmware
+
+
+Package: iwlwifi-firmware-iwl5150
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 26cd6e0992d14bd2c3379bbb197f1f7b
+Size: 174787
+Filename: iwlwifi-firmware-iwl5150_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless Wi-Fi 5150AGN firmware
+
+
+Package: iwlwifi-firmware-iwl6000g2
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 0d88915a9daf9e36f1d893d8b8b144fc
+Size: 213353
+Filename: iwlwifi-firmware-iwl6000g2_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino 6300 and 6200 firmware
+
+
+Package: iwlwifi-firmware-iwl6000g2a
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 5cc777b8f8d41abd88f94a175dea7d49
+Size: 324211
+Filename: iwlwifi-firmware-iwl6000g2a_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino 6205 firmware
+
+
+Package: iwlwifi-firmware-iwl6000g2b
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 415ba3159b4e089f73caa30d13914ec8
+Size: 328077
+Filename: iwlwifi-firmware-iwl6000g2b_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino 6230 1030 130 and 6235 firmware
+
+
+Package: iwlwifi-firmware-iwl6050
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 6501713921bc678e8ee5baeab2a44dda
+Size: 219603
+Filename: iwlwifi-firmware-iwl6050_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Centrino 6150 and 6250 firmware
+
+
+Package: iwlwifi-firmware-iwl7260
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 0cc9f4c73254694d42a0a160604e770d
+Size: 492615
+Filename: iwlwifi-firmware-iwl7260_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 7260 firmware
+
+
+Package: iwlwifi-firmware-iwl7265
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 0a79b7b5181d4eece2d26a2147fd77c5
+Size: 533750
+Filename: iwlwifi-firmware-iwl7265_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 7265 firmware
+
+
+Package: iwlwifi-firmware-iwl7265d
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 7922e8aac0fc48ffa2f7a677eeef632c
+Size: 462721
+Filename: iwlwifi-firmware-iwl7265d_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 7265D and 3165 firmware
+
+
+Package: iwlwifi-firmware-iwl8260c
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 78610774bf34e9240330c723539b05d3
+Size: 958318
+Filename: iwlwifi-firmware-iwl8260c_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 8260 and 4165 firmware
+
+
+Package: iwlwifi-firmware-iwl8265
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: c9f8a4abf38d28d46d6e64f48870e766
+Size: 965757
+Filename: iwlwifi-firmware-iwl8265_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 8265 firmware
+
+
+Package: iwlwifi-firmware-iwl9000
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 7fd2c188b04694c64ee0f3b13ad4b5cc
+Size: 628198
+Filename: iwlwifi-firmware-iwl9000_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 9000 firmware
+
+
+Package: iwlwifi-firmware-iwl9260
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: ff276f7bbaad92d83f53b487dddec487
+Size: 623313
+Filename: iwlwifi-firmware-iwl9260_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Intel Wireless 9260 firmware
+
+
+Package: libertas-sdio-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: f1cc3787acc0359f5ab0038b063e3905
+Size: 349457
+Filename: libertas-sdio-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Marvell 8385/8686/8688 SDIO firmware
+
+
+Package: libertas-spi-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: f5cf65beffd79d63bfb8e0ff03273b5a
+Size: 93076
+Filename: libertas-spi-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Marvell 8686 SPI firmware
+
+
+Package: libertas-usb-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: d359d428f5fa5536b91233c9e1f98dd6
+Size: 217320
+Filename: libertas-usb-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Marvell 8388/8682 USB firmware
 
 
 Package: libopenssl-afalg
@@ -147,6 +1940,21 @@ Description: The OpenSSL Project is a collaborative effort to develop a robust,
 License: Apache-2.0
 
 
+Package: libpcap1
+Version: 1.10.4-1
+Depends: libc
+Provides: libpcap
+Section: libs
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: bcaf14788836f1f926c5feb14b02c8ee
+Size: 117682
+Filename: libpcap1_1.10.4-1_x86_64.ipk
+Source: feeds/base/package/libs/libpcap
+Description: This package contains a system-independent library for user-level network packet
+License: BSD-3-Clause
+
+
 Package: libpcre
 Version: 8.45-1
 Depends: libc
@@ -188,6 +1996,184 @@ Description: Thie package is a development package aimed to be linked to
 License: ISC
 
 
+Package: linux-atm
+Version: 2.5.2-7
+Depends: libc
+Section: libs
+Architecture: x86_64
+MD5Sum: 6004b681133ff8f99fb92fbf10274813
+Size: 17476
+Filename: linux-atm_2.5.2-7_x86_64.ipk
+Source: feeds/base/package/network/utils/linux-atm
+Description: This package contains a library for accessing the Linux ATM subsystem.
+License: GPL-2.0+
+
+
+Package: mt7601u-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 528b89c4797401649a3293ad005d3dc4
+Size: 27165
+Filename: mt7601u-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: MediaTek MT7601U firmware
+
+
+Package: mt7622bt-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 24cd82f3c95ac06897c1f16c2f413d73
+Size: 54735
+Filename: mt7622bt-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: mt7622bt firmware
+
+
+Package: mt7921bt-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 802c0eba81b761101eade47152c15a26
+Size: 401459
+Filename: mt7921bt-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: mt7921bt firmware
+
+
+Package: mt7922bt-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: d2587508cb7da3d5787d2a0534025532
+Size: 513213
+Filename: mt7922bt-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: mt7922bt firmware
+
+
+Package: mt7981-wo-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 065b8b8adfffe6f49cf940f54f29136e
+Size: 48312
+Filename: mt7981-wo-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: MT7981 offload firmware
+
+
+Package: mt7986-wo-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: d82701a3977a963db3408432bd7d8c69
+Size: 96352
+Filename: mt7986-wo-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: MT7986 offload firmware
+
+
+Package: mwifiex-pcie-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: badee5d4dbfb568f578e601fd68dc7d4
+Size: 515558
+Filename: mwifiex-pcie-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Marvell 8897 firmware
+
+
+Package: mwifiex-sdio-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: c9ca375d02dd393b84c4478c0c4ace9a
+Size: 877074
+Filename: mwifiex-sdio-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Marvell 8887/8997 firmware
+
+
+Package: mwl8k-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 2ca654650ead6ed95ece8450dccb00f9
+Size: 193211
+Filename: mwl8k-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Marvell 8366/8687 firmware
+
+
+Package: nochwired-ppp-mod-pppoe
+Version: 2.5.1-1
+Depends: libc, kmod-pppoe
+Provides: ppp-mod-pppoe
+Conflicts: ppp-mod-pppoe
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: d41df09225f005bacb2fbebe8d8d8895
+Size: 13086
+Filename: nochwired-ppp-mod-pppoe_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: PPPoE plugin (Noch Wired build)
+License: BSD-4-Clause
+
+
+Package: nochwired-ppp-mod-radius
+Version: 2.5.1-1
+Depends: libc
+Provides: ppp-mod-radius
+Conflicts: ppp-mod-radius
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: faf4bbb1c9a42dadc5b0b32513a444b1
+Size: 26543
+Filename: nochwired-ppp-mod-radius_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: RADIUS plugin for pppd (Noch Wired build).
+License: BSD-4-Clause
+
+
+Package: nochwired-ppp
+Version: 2.5.1-1
+Depends: libc, kmod-ppp
+Provides: ppp
+Conflicts: ppp
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: 691bd0fd3f255a62e74d914095cce31e
+Size: 141755
+Filename: nochwired-ppp_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: PPP daemon (Noch Wired custom build with radattr support).
+License: BSD-4-Clause
+
+
 Package: openssl-util
 Version: 3.0.19-1
 Depends: libc, libopenssl3, libopenssl-conf
@@ -200,5 +2186,454 @@ Filename: openssl-util_3.0.19-1_x86_64.ipk
 Source: feeds/base/package/libs/openssl
 Description: The OpenSSL Project is a collaborative effort to develop a robust,
 License: Apache-2.0
+
+
+Package: ppp-mod-passwordfd
+Version: 2.5.1-1
+Depends: libc
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: 9e9bd455a97802f889ddc822ca8be59a
+Size: 2315
+Filename: ppp-mod-passwordfd_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: pap/chap secret from filedescriptor
+License: BSD-4-Clause
+
+
+Package: ppp-mod-pppoa
+Version: 2.5.1-1
+Depends: libc, linux-atm, kmod-pppoa
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: b5dcf17a03332a1ba9c8e6f9b4ed6136
+Size: 3182
+Filename: ppp-mod-pppoa_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: PPPoA plugin
+License: BSD-4-Clause
+
+
+Package: ppp-mod-pppol2tp
+Version: 2.5.1-1
+Depends: libc, kmod-pppol2tp
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: dcba2e31965efce4ce1e14307c2787e4
+Size: 5475
+Filename: ppp-mod-pppol2tp_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: PPPoL2TP plugin
+License: BSD-4-Clause
+
+
+Package: ppp-mod-pptp
+Version: 2.5.1-1
+Depends: libc, kmod-pptp, kmod-mppe, resolveip
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: e487c9aa90e5eaecf0e61ce60d6f760f
+Size: 18884
+Filename: ppp-mod-pptp_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: PPtP plugin
+License: BSD-4-Clause
+
+
+Package: pppoe-discovery
+Version: 2.5.1-1
+Depends: libc, nochwired-ppp-mod-pppoe
+Section: net
+Architecture: x86_64
+Maintainer: Noch Wired <support@nochwired.co.ke>
+MD5Sum: 00de506ffe190215297e4f2cbe46db4b
+Size: 9133
+Filename: pppoe-discovery_2.5.1-1_x86_64.ipk
+Source: package/network/services/ppp
+Description: Perform a PPPoE-discovery process
+License: BSD-4-Clause
+
+
+Package: r8152-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: cef75f664682786573e25f012d12e1ab
+Size: 11645
+Filename: r8152-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8152 firmware
+
+
+Package: r8169-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: aaa1b022aee753bda33614fce335fe61
+Size: 24496
+Filename: r8169-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8169 firmware
+
+
+Package: radeon-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 45f622068d6564b268b3d603aba6f5a8
+Size: 3518019
+Filename: radeon-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Radeon Video Driver firmware
+
+
+Package: resolveip
+Version: 2
+Depends: libc
+Section: utils
+Architecture: x86_64
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+MD5Sum: 013ef26a05bcc39ee22525489135474e
+Size: 2490
+Filename: resolveip_2_x86_64.ipk
+Source: feeds/base/package/network/utils/resolveip
+Description: This package contains the small resolveip utility which
+License: GPL-2.0
+
+
+Package: rpcapd
+Version: 1.10.4-1
+Depends: libc, libpcap1
+Section: net
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 6fc058c3a67f98f77641c9aaaa448fb9
+Size: 124512
+Filename: rpcapd_1.10.4-1_x86_64.ipk
+Source: feeds/base/package/libs/libpcap
+Description: Capture daemon to be controlled by a remote libpcap application
+License: BSD-3-Clause
+
+
+Package: rs9113-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 3cbe66964f1148e1772cf595c84d4426
+Size: 85221
+Filename: rs9113-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RedPine Signals rs9113 firmware
+
+
+Package: rt2800-pci-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: c91c7fa0d2804e43e571bcd3eb142d32
+Size: 4690
+Filename: rt2800-pci-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Ralink RT28xx/3xxx PCI/SoC firmware
+
+
+Package: rt2800-usb-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 304b6d18b2b3cc01b02c39d4c7c452cb
+Size: 3643
+Filename: rt2800-usb-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Ralink RT28xx/3xxx USB firmware
+
+
+Package: rt61-pci-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 20d5f141aeee3936f5b476b0a04e6300
+Size: 7220
+Filename: rt61-pci-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Ralink RT2561 firmware
+
+
+Package: rt73-usb-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: b691cb00d87e8913f069e30bd20764f4
+Size: 2030
+Filename: rt73-usb-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: Ralink RT2573 firmware
+
+
+Package: rtl8188eu-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 39547cbef2fd1e363bf4e60ad084ce5e
+Size: 11193
+Filename: rtl8188eu-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8188EU firmware
+
+
+Package: rtl8192ce-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 40f1da6d65a57eeb982b1fc647a6e114
+Size: 21453
+Filename: rtl8192ce-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8192CE firmware
+
+
+Package: rtl8192cu-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: a38e37a68e1453d5d9b515d1a88b4a65
+Size: 19486
+Filename: rtl8192cu-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8192CU firmware
+
+
+Package: rtl8192de-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 7072b6c58670cfff45f5cc1d46d46969
+Size: 14272
+Filename: rtl8192de-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8192DE firmware
+
+
+Package: rtl8192eu-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 9b8777163824e14877edea68a025da68
+Size: 21697
+Filename: rtl8192eu-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8192EU firmware
+
+
+Package: rtl8192se-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 0b92831206bbd84a5fec19ced8c990d8
+Size: 37477
+Filename: rtl8192se-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8192SE firmware
+
+
+Package: rtl8723au-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: ec0160da2011501dfbaf81a1e3e52787
+Size: 28725
+Filename: rtl8723au-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8723AU firmware
+
+
+Package: rtl8723bu-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: e9a3abad8674393d7839b10d750004c9
+Size: 22165
+Filename: rtl8723bu-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8723BU firmware
+
+
+Package: rtl8761a-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: a024fbb93a70f7d11fb255daee0a5057
+Size: 43516
+Filename: rtl8761a-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8761A firmware
+
+
+Package: rtl8761b-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 9d5c9f958d6590cd4feb76a1a77f6746
+Size: 32569
+Filename: rtl8761b-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8761B firmware
+
+
+Package: rtl8761bu-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: d2ad0d6a57f174101c2cfed7c80ce161
+Size: 31900
+Filename: rtl8761bu-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8761BU firmware
+
+
+Package: rtl8821ae-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: b3ef3c1407817b65cca85c2c2ce56cbc
+Size: 28618
+Filename: rtl8821ae-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8821AE firmware
+
+
+Package: rtl8822be-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 39b37c4398e96a2aa354b770b2b44ad8
+Size: 82965
+Filename: rtl8822be-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8822BE firmware
+
+
+Package: rtl8822ce-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: f1d0f12114fbbfcaaff5307eb35531b6
+Size: 162587
+Filename: rtl8822ce-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: RealTek RTL8822CE firmware
+
+
+Package: ti-3410-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 9e126b0a52254cc41c2c61ee49a5d29e
+Size: 8618
+Filename: ti-3410-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: TI 3410 firmware
+
+
+Package: ti-5052-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: ac46e879970801cfd8042bdc822fdd95
+Size: 8603
+Filename: ti-5052-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: TI 5052 firmware
+
+
+Package: wil6210-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: a5b682e609ec711284714365d0c8f7d1
+Size: 255726
+Filename: wil6210-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: wil6210 firmware
+
+
+Package: wl12xx-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: 8a3bba09303f409a4a4992314be860f3
+Size: 1175126
+Filename: wl12xx-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: TI WL12xx firmware
+
+
+Package: wl18xx-firmware
+Version: 20230804-1
+Depends: libc
+Section: firmware
+Architecture: x86_64
+Maintainer: Felix Fietkau <nbd@nbd.name>
+MD5Sum: c80d873e363a1753c175f67aaee7d334
+Size: 343937
+Filename: wl18xx-firmware_20230804-1_x86_64.ipk
+Source: feeds/base/package/firmware/linux-firmware
+Description: TI WL18xx firmware
 
 
